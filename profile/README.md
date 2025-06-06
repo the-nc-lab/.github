@@ -9,3 +9,6 @@
   - [Spike synchrony reveals Gestalt principles in V1](https://github.com/rainsummer613/synchrony)
 
 - Dendritic computing
+
+- Other cool stuff
+    - [Phytoplankton Patterns in the Baltic Sea](https://github.com/pnieters/PredictingPhytoplanktonPatterns/)
