@@ -1,4 +1,4 @@
-# Neural Computation Group, Osnabrück University
+# Neurocomputation Group, Osnabrück University
 
 **Group leader**: Pascal Nieters
 
