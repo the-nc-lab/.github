@@ -1,6 +1,6 @@
 # Neurocomputation Group, Osnabrück University
 
-![Alt text](https://i.imgur.com/uNd54rl.png)
+![Neurons: AI generated](https://i.imgur.com/e4hhR3K.jpeg)
 
 **Group leader**: Pascal Nieters
 
