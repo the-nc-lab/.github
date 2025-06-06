@@ -1,6 +1,6 @@
 # Neurocomputation Group, Osnabrück University
 
-![](https://imgur.com/a/Mjg6E25)
+![Alt text](https://i.imgur.com/443UcjU.png)
 
 **Group leader**: Pascal Nieters
 
