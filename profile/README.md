@@ -15,6 +15,4 @@
 
 - **Dynamical systems**
     - [Learning missing terms in bifurcating dynamical systems](https://github.com/pnieters/GeneralizedDynamicsFromData) 
-
-- **Other cool stuff**
     - [Phytoplankton Patterns in the Baltic Sea](https://github.com/pnieters/PredictingPhytoplanktonPatterns/)
