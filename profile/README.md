@@ -11,6 +11,10 @@
   - [Spike synchrony reveals Gestalt principles in V1](https://github.com/rainsummer613/synchrony)
 
 - **Dendritic computing**
+    - [Neural computation with dendritic plateaus](https://github.com/jleugeri/DPC)
+
+- **Dynamical systems**
+    - [Learning missing terms in bifurcating dynamical systems](https://github.com/pnieters/GeneralizedDynamicsFromData) 
 
 - **Other cool stuff**
     - [Phytoplankton Patterns in the Baltic Sea](https://github.com/pnieters/PredictingPhytoplanktonPatterns/)
